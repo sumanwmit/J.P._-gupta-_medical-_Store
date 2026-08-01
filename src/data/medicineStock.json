@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MED-001",
+    "name": "Paracetamol 650mg (Dolo 650)",
+    "brand": "Micro Labs Ltd",
+    "category": "Prescription Medicines",
+    "mrp": 34.50,
+    "availableQuantity": 150,
+    "expiry": "2027-11",
+    "status": "Available",
+    "description": "Analgesic and antipyretic for fever and mild to moderate pain relief."
+  },
+  {
+    "id": "MED-002",
+    "name": "Azithromycin 500mg (Azithral 500)",
+    "brand": "Alembic Pharmaceuticals",
+    "category": "Prescription Medicines",
+    "mrp": 119.00,
+    "availableQuantity": 45,
+    "expiry": "2027-08",
+    "status": "Available",
+    "description": "Broad-spectrum macrolide antibiotic for bacterial infections."
+  },
+  {
+    "id": "MED-003",
+    "name": "Pantoprazole 40mg (Pan 40)",
+    "brand": "Alkem Laboratories",
+    "category": "Prescription Medicines",
+    "mrp": 155.00,
+    "availableQuantity": 80,
+    "expiry": "2027-09",
+    "status": "Available",
+    "description": "Proton pump inhibitor for acidity, GERD, and stomach ulcers."
+  },
+  {
+    "id": "MED-004",
+    "name": "Amoxycillin & Potassium Clavulanate (Moxikind-CV 625)",
+    "brand": "Mankind Pharma",
+    "category": "Prescription Medicines",
+    "mrp": 204.00,
+    "availableQuantity": 12,
+    "expiry": "2026-12",
+    "status": "Limited Stock",
+    "description": "Combination antibiotic for respiratory, dental, and soft tissue infections."
+  },
+  {
+    "id": "MED-005",
+    "name": "Montelukast & Levocetirizine (Montair LC)",
+    "brand": "Cipla Ltd",
+    "category": "Prescription Medicines",
+    "mrp": 312.00,
+    "availableQuantity": 60,
+    "expiry": "2027-06",
+    "status": "Available",
+    "description": "Antiallergic tablet for allergic rhinitis, asthma, and seasonal allergies."
+  },
+  {
+    "id": "MED-006",
+    "name": "Metformin 500mg (Glycomet 500 SR)",
+    "brand": "USV Pvt Ltd",
+    "category": "Prescription Medicines",
+    "mrp": 42.00,
+    "availableQuantity": 200,
+    "expiry": "2028-02",
+    "status": "Available",
+    "description": "First-line oral anti-diabetic medication for Type-2 Diabetes management."
+  },
+  {
+    "id": "MED-007",
+    "name": "Telmisartan 40mg (Telma 40)",
+    "brand": "Glenmark Pharmaceuticals",
+    "category": "Prescription Medicines",
+    "mrp": 108.00,
+    "availableQuantity": 95,
+    "expiry": "2027-10",
+    "status": "Available",
+    "description": "Angiotensin receptor blocker for high blood pressure management."
+  },
+  {
+    "id": "MED-008",
+    "name": "Vitamin C + Zinc Chewable (Celin 500)",
+    "brand": "Abbott India",
+    "category": "OTC Medicines",
+    "mrp": 48.00,
+    "availableQuantity": 180,
+    "expiry": "2027-12",
+    "status": "Available",
+    "description": "Immunity booster chewable tablets for daily health and defense."
+  },
+  {
+    "id": "MED-009",
+    "name": "Accu-Chek Active Blood Glucose Monitor Strips (50 Pack)",
+    "brand": "Roche Diabetes Care",
+    "category": "Health Devices",
+    "mrp": 1049.00,
+    "availableQuantity": 15,
+    "expiry": "2027-05",
+    "status": "Available",
+    "description": "High accuracy blood sugar testing strips for self-monitoring at home."
+  },
+  {
+    "id": "MED-010",
+    "name": "Omron Digital BP Monitor (HEM-7120)",
+    "brand": "Omron Healthcare",
+    "category": "Health Devices",
+    "mrp": 2480.00,
+    "availableQuantity": 8,
+    "expiry": "N/A",
+    "status": "Available",
+    "description": "Automatic upper arm blood pressure monitor with Intellisense technology."
+  },
+  {
+    "id": "MED-011",
+    "name": "Dr. Morepen Compressor Nebulizer (CN-06)",
+    "brand": "Dr. Morepen",
+    "category": "Medical Equipment",
+    "mrp": 1650.00,
+    "availableQuantity": 5,
+    "expiry": "N/A",
+    "status": "Limited Stock",
+    "description": "Compact nebulizer system for effective respiratory medication delivery."
+  },
+  {
+    "id": "MED-012",
+    "name": "Pampers Baby Dry Diapers (Large 42 Count)",
+    "brand": "Procter & Gamble",
+    "category": "Baby Care",
+    "mrp": 799.00,
+    "availableQuantity": 30,
+    "expiry": "2028-01",
+    "status": "Available",
+    "description": "Ultra-absorbent baby diapers with anti-leak channels for overnight dryness."
+  },
+  {
+    "id": "MED-013",
+    "name": "Sebamed Baby Gentle Wash (200ml)",
+    "brand": "Sebamed India",
+    "category": "Baby Care",
+    "mrp": 580.00,
+    "availableQuantity": 0,
+    "expiry": "2027-04",
+    "status": "Out of Stock",
+    "description": "pH 5.5 balanced soap-free body wash for sensitive newborn skin."
+  },
+  {
+    "id": "MED-014",
+    "name": "Revital H Daily Multivitamin Capsules (30 Capsules)",
+    "brand": "Sun Pharma",
+    "category": "Supplements",
+    "mrp": 330.00,
+    "availableQuantity": 50,
+    "expiry": "2027-07",
+    "status": "Available",
+    "description": "Ginseng, vitamins, and essential minerals for daily energy and stamina."
+  },
+  {
+    "id": "MED-015",
+    "name": "Dettol Antiseptic Liquid (500ml)",
+    "brand": "Reckitt Benckiser",
+    "category": "Home Care",
+    "mrp": 215.00,
+    "availableQuantity": 75,
+    "expiry": "2028-06",
+    "status": "Available",
+    "description": "First aid antiseptic solution for wound cleansing, bathing, and disinfection."
+  },
+  {
+    "id": "MED-016",
+    "name": "Oxi-Pulse Fingertip Pulse Oximeter",
+    "brand": "BPL Medical Technologies",
+    "category": "Health Devices",
+    "mrp": 1250.00,
+    "availableQuantity": 10,
+    "expiry": "N/A",
+    "status": "Available",
+    "description": "Instant SpO2 and pulse rate monitor with OLED display."
+  },
+  {
+    "id": "MED-017",
+    "name": "Cremaffin Constipation Relief Syrup (225ml)",
+    "brand": "Abbott India",
+    "category": "OTC Medicines",
+    "mrp": 265.00,
+    "availableQuantity": 35,
+    "expiry": "2027-03",
+    "status": "Available",
+    "description": "Gentle liquid laxative emulsion providing comfortable bowel clearance."
+  },
+  {
+    "id": "MED-018",
+    "name": "Volini Pain Relief Gel (50g Tube)",
+    "brand": "Sun Pharma",
+    "category": "OTC Medicines",
+    "mrp": 160.00,
+    "availableQuantity": 60,
+    "expiry": "2027-11",
+    "status": "Available",
+    "description": "Fast action pain relief gel for back pain, joint stiffness, and muscle sprains."
+  }
+]

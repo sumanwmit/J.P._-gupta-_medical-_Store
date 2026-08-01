@@ -1,0 +1,6 @@
+{
+  "name": "J.P. Gupta Medical Store",
+  "description": "Trusted Medical Store & Pharmacy in Jehanabad, Bihar for Genuine Medicines, Healthcare Products, Surgical Essentials & WhatsApp Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
