@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://j-p-gupta-medical-store.vercel.app/sitemap.xml
