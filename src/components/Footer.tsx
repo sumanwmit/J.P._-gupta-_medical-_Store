@@ -216,18 +216,11 @@ export const Footer: React.FC = () => {
             &copy; {new Date().getFullYear()} {STORE_INFO.name}. All rights reserved.
           </div>
 
-          {/* Developer Credit - Strict Requirement: Developed by WMIT -> https://main.webmakerit.com */}
+          {/* Developer Credit - Strict Requirement:  WMIT -> https://main.webmakerit.com */}
           <div className="text-slate-400 font-medium">
-            Developed by{' '}
-            <a
-              href="https://main.webmakerit.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-emerald-400 font-bold hover:underline inline-flex items-center space-x-1"
-            >
-              <span>WMIT</span>
-              <ExternalLink className="w-3 h-3 ml-0.5" />
-            </a>
+            {' '}
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
+
           </div>
         </div>
       </div>
