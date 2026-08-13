@@ -213,7 +213,8 @@ export const Footer: React.FC = () => {
 
           {/* Copyright */}
           <div>
-            &copy; {new Date().getFullYear()} {STORE_INFO.name}. All rights reserved.
+            &copy; {new Date().getFullYear()} {STORE_INFO.name}. All rights reserved.<a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Design by WMIT</a>
+
           </div>
 
           {/* Developer Credit - Strict Requirement:  WMIT -> https://main.webmakerit.com */}
